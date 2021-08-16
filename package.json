@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "tmi.js": "^1.8.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aushyro/WeirdAndOddBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aushyro/WeirdAndOddBot/issues"
+  },
+  "homepage": "https://github.com/Aushyro/WeirdAndOddBot#readme"
 }
