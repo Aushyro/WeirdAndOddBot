@@ -15,7 +15,7 @@ const opts = {
 // Create a Twitch client with our options
 const client = new tmi.client(opts);
 var dadjokes = [];
-var newline = "\r\n";
+var newline = "\n";
 
 Init();
 
