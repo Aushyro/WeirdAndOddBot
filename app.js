@@ -9,7 +9,7 @@ const opts = {
   // This bot is just a second Twitch account.
   // Please note: you can connect to any channel as long as they have an open chat channel (not for followers only)
   // DON'T SPAM with it!! Unless you would like to get your bot banned from that channel :-)
-  channels: ["aushyro"] //, "designy"]
+  channels: ["aushyro","LadyRavenhill"] //, "designy"]
 };
 
 // Create a Twitch client with our options
